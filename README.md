@@ -3,6 +3,8 @@
 - 🌱 I’m currently learning HTML, CSS and JavaScript.
 - 💞️ I’m looking to collaborate on projects 
 - 📫 How to reach me; moronfoludeji90@gmail.com, +2348181652997
+- 
+  calculator4Zuri Task link - https://sheziemoney.github.io/Sheziemoney/index.html
 
 <!---
 Sheziemoney/Sheziemoney is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
